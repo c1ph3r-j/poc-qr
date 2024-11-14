@@ -22,6 +22,9 @@
       }
     },
     "web": {
+      "https": true,
+      "sslCert": "./localhost+2.pem",
+      "sslKey": "./localhost+2-key.pem",
       "favicon": "./assets/favicon.png"
     }
   }
